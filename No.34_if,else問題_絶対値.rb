@@ -23,7 +23,7 @@ def close_far(a, b, c)
 
   if x == 1 && z >= 2
     puts "True"
-  elsif y == 1 && z >= 2
+  elsif y == 1 && z >= 2s
     puts "False"
   else
     puts "False"
