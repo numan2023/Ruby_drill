@@ -21,6 +21,7 @@
 # puts str.include?("hoge")
 # => false
 
+-------------------------------------
 
 def xyz_there(str)
   if str.include?(".xyz")
@@ -33,3 +34,5 @@ def xyz_there(str)
 end
 
 xyz_there('abcxyz')
+
+-------------------------------------
